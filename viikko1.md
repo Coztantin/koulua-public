@@ -60,4 +60,4 @@ Jee! Voitin!
 
 
 
-![Captain Spaulding](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthvnext.bing.com%2Fth%2Fid%2FOIP.6UrDOCUN0nS10UDLaTv1FQHaFG%3Fr%3D0%26cb%3Ducfimgc2%26pid%3DApi&f=1&ipt=bf536aec15eb9dd99e9fa79ccc02ef02cc2825c2a899505c7c2d3ec9433a07c6&ipo=images)
+![tässä pitäis olla Captain Spaulding kiroilemas... menetin pokkani 8h kohdalla](https://www.google.com/imgres?q=thats%20all%20folks&imgurl=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000605731930-1ql21b-t1080x1080.jpg&imgrefurl=https%3A%2F%2Fsoundcloud.com%2Fyasser-boumechra%2Fthats-all-folks-looney-tunes-theme-remake&docid=dL6EK5QLBvFjbM&tbnid=Zc_HZbfmr5C73M&vet=12ahUKEwjdh9GSzsyPAxWlPhAIHWE3GTYQM3oECCkQAA..i&w=1080&h=1080&hcb=2&ved=2ahUKEwjdh9GSzsyPAxWlPhAIHWE3GTYQM3oECCkQAA)
