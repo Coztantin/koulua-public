@@ -21,9 +21,10 @@ Koodaus ja ja mallinnus on tosiaankin ihan aloittelevalla tasolla. En voi antaa 
 Tässä olisi eka oppitunti pyyttonista:
 
 `print("Hello world!")`
+
 ---
 
-**### Harrastukset**
+### **Harrastukset**
 
 Tosiaan, harrastan ja tykkään kokeilla monenlaista tekemistä. Tällä hetkellä on menossa ainoastaan puutyöt, mutta jos olisi mahdollista (rahaa+aikaa) lisäisin repertuaariin ainakin takoomisen ja 3D-printtauksen. Tässä olisi harrastukset tärkeysjärjestyksessä:
 
@@ -46,9 +47,7 @@ Mitäs muuta tänne keksii... mitä multa puuttuu? kuva... joo... linkki ja taul
 
 
 |   |   |   |
-|---|---|---|
 |   |   |   |
-|---|---|---|
 |   |   |   |
 
 
