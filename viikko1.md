@@ -46,9 +46,9 @@ En keksi muuta...
 Mitäs muuta tänne keksii... mitä multa puuttuu? kuva... joo... linkki ja taulukko! Nice... tästähän mää keksin... Pelataa RISTINOLLAA! :D tässä on [ohjeet](https://en.wikipedia.org/wiki/Tic-tac-toe).
 
 
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| x | o | x |
+| o | x | o |
+| o | o | x |
 
 
 
